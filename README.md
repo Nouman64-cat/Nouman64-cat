@@ -92,26 +92,6 @@ Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in
 
 ---
 
-## 🧑‍💻 Side Projects
-
-- <b>CourtCierge</b> ([Site](https://courtcierge.online)) — Legal management platform, analytics, chat, billing (Node.js, Tailwind CSS, GraphQL, React)
-- <b>Three JS Portfolio</b> ([Site](https://noumanejaz.site)) — Personal portfolio, modern UI/UX, D3.js, Tailwind CSS, Node.js, React
-- <b>Pinion</b> ([PyPI](https://pypi.org/project/pinion-queue/)) — Python job queue/worker, SQLite backend, metrics, retries
-
----
-
-## 🎓 Education
-
-<table>
-  <tr>
-    <td><b>University of Management and Technology</b></td>
-    <td>Software Engineering</td>
-    <td>Nov 2021 - Jul 2025</td>
-  </tr>
-</table>
-
----
-
 ## 📫 Contact
 
 <p>
