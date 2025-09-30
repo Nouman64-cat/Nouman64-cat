@@ -1,23 +1,9 @@
 <div align="center">
   
   <h1>Nouman Ejaz — <span style="color:#007acc">Software Engineer</span></h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=flat-square" />
-    <img src="https://img.shields.io/badge/Availability-Ready%20in%201%20week-green?style=flat-square" />
-    <img src="https://img.shields.io/badge/Timezone%20Overlap-4%20hrs%20(PST%2FEST)-orange?style=flat-square" />
-  </p>
 </div>
 
----
-
-## 👋 About Me
-
-Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in building high-performant, scalable solutions and write code that follows <b>SOLID</b> principles and design patterns for easy collaboration. I love researching, learning, and implementing best practices.
-
----
-
-## 🛠️ Programming Languages
+<div align="center">
 
 <table>
   <tr>
@@ -28,8 +14,6 @@ Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/><br><b>Node.js</b></td>
   </tr>
 </table>
-
-## Frameworks
 
 ## 🚀 Frameworks
 
@@ -82,6 +66,4 @@ Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in
 
 ---
 
-<blockquote>
-  <b>"I believe in writing code that makes life easier for collaborators and other developers."</b>
-</blockquote>
+</div>
