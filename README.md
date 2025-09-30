@@ -55,15 +55,4 @@
   </tr>
 </table>
 
----
-
-## 📫 Contact
-
-<p>
-  <a href="https://www.linkedin.com/in/noumanejaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://noumanejaz.site"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome" /></a>
-</p>
-
----
-
 </div>
