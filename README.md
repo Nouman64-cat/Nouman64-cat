@@ -1,103 +1,126 @@
-![Nouman Logo](https://noumanejaz.site/logo.png)
-
-# Nouman — Developer Profile
-
-**Location:** Pakistan  
-**Availability:** Ready to start in 1 week  
-**Timezone Overlap:** 4 hrs (PST/EST)
+<div align="center">
+  <img src="https://noumanejaz.site/logo.png" alt="Nouman Logo" width="120" />
+  
+  <h1>Nouman Ejaz — <span style="color:#007acc">Software Engineer</span></h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Location-Pakistan-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Availability-Ready%20in%201%20week-green?style=flat-square" />
+    <img src="https://img.shields.io/badge/Timezone%20Overlap-4%20hrs%20(PST%2FEST)-orange?style=flat-square" />
+  </p>
+</div>
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in building high-performant, scalable solutions and write code that follows SOLID principles and design patterns for easy collaboration. I love researching, learning, and implementing best practices.
+Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in building high-performant, scalable solutions and write code that follows <b>SOLID</b> principles and design patterns for easy collaboration. I love researching, learning, and implementing best practices.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Core Skills:**
+<table>
+  <tr>
+    <td><b>Python</b> <br> <img src="https://img.shields.io/badge/-1%20year-blue" /></td>
+    <td><b>JavaScript</b> <br> <img src="https://img.shields.io/badge/-1%20year-yellow" /></td>
+    <td><b>TypeScript</b> <br> <img src="https://img.shields.io/badge/-1%20year-blueviolet" /></td>
+    <td><b>Node.js</b> <br> <img src="https://img.shields.io/badge/-2%20years-green" /></td>
+  </tr>
+</table>
 
-- Python (1 year)
-- JavaScript (1 year)
-- TypeScript (1 year)
-- Node.js (2 years)
-
-**Additional Skills:**
-
-- HTML/CSS
-- Express.js
-- React Native
-- Sequelize
-- MySQL
-- SCSS
-- Information Technology
-- Figma
-- IoT
-- Web API
-- Server-Sent Events
-- E-Commerce
-- ERP
-- Next.js
-- Inventory
-- SSO
-- Firebase
-- Chatbot
-- GAP
-- Tailwind CSS
+<details>
+  <summary><b>Additional Skills</b></summary>
+  <ul>
+    <li>HTML/CSS</li>
+    <li>Express.js</li>
+    <li>React Native</li>
+    <li>Sequelize</li>
+    <li>MySQL</li>
+    <li>SCSS</li>
+    <li>Information Technology</li>
+    <li>Figma</li>
+    <li>IoT</li>
+    <li>Web API</li>
+    <li>Server-Sent Events</li>
+    <li>E-Commerce</li>
+    <li>ERP</li>
+    <li>Next.js</li>
+    <li>Inventory</li>
+    <li>SSO</li>
+    <li>Firebase</li>
+    <li>Chatbot</li>
+    <li>GAP</li>
+    <li>Tailwind CSS</li>
+  </ul>
+</details>
 
 ---
 
 ## 💼 Work History
 
-### Associate Software Engineer — GenITeam Solutions _(Jul 2025 - Present)_
+### <img src="https://img.shields.io/badge/-GenITeam%20Solutions-007acc?logo=nextdotjs&logoColor=white" height="20"/> Associate Software Engineer <br><sub>Jul 2025 - Present</sub>
 
-- **Devich Holzschuherzeugung** ([Site](https://srv855830.hstgr.cloud/de))
+- <b>Devich Holzschuherzeugung</b> ([Site](https://srv855830.hstgr.cloud/de))<br>
+  <ul>
+    <li>Next.js frontend, Frappe/ERPNext backend</li>
+    <li>Custom APIs, webhooks, Canon camera integration, S3/MinIO asset uploads</li>
+    <li>Data consistency, API optimization, seamless store-inventory-media workflows</li>
+  </ul>
+- <b>FiCAP</b> ([Site](https://nina.repscam.com/))<br>
+  <ul>
+    <li>Chatbot agent, SSO via Firebase, Node.js backend, Next.js frontend</li>
+  </ul>
 
-  - Next.js frontend, Frappe/ERPNext backend
-  - Custom APIs, webhooks, Canon camera integration, S3/MinIO asset uploads
-  - Data consistency, API optimization, seamless store-inventory-media workflows
+### <img src="https://img.shields.io/badge/-Onyxtec%20Solutions-007acc?logo=node.js&logoColor=white" height="20"/> Associate Software Engineer <br><sub>Feb 2025 - Jul 2025</sub>
 
-- **FiCAP** ([Site](https://nina.repscam.com/))
-  - Chatbot agent, SSO via Firebase, Node.js backend, Next.js frontend
+- <b>Social Squad</b> ([Site](https://socialsquad.app/))<br>
+  <ul>
+    <li>Social event app, guest web portal (Node.js, Express.js, React Native)</li>
+  </ul>
+- <b>CandiHealth</b> ([Site](https://www.candihealth.com/))<br>
+  <ul>
+    <li>Remote patient monitoring, IoT devices, Node.js backend, Server-Sent Events, MySQL, SCSS</li>
+  </ul>
 
-### Associate Software Engineer — Onyxtec Solutions _(Feb 2025 - Jul 2025)_
+### <img src="https://img.shields.io/badge/-CareerTweakrz%20Inc.-007acc?logo=typescript&logoColor=white" height="20"/> Frontend Engineer <br><sub>Jun 2024 - Feb 2025</sub>
 
-- **Social Squad** ([Site](https://socialsquad.app/))
-
-  - Social event app, guest web portal (Node.js, Express.js, React Native)
-
-- **CandiHealth** ([Site](https://www.candihealth.com/))
-  - Remote patient monitoring, IoT devices, Node.js backend, Server-Sent Events, MySQL, SCSS
-
-### Frontend Engineer — CareerTweakrz Inc. _(Jun 2024 - Feb 2025)_
-
-- **CareerTweakrz**
-  - AI-powered resume generator (Next.js, Node.js, Tailwind CSS, TypeScript)
+- <b>CareerTweakrz</b><br>
+  <ul>
+    <li>AI-powered resume generator (Next.js, Node.js, Tailwind CSS, TypeScript)</li>
+  </ul>
 
 ---
 
 ## 🧑‍💻 Side Projects
 
-- **CourtCierge** ([Site](https://courtcierge.online)) — Legal management platform, analytics, chat, billing (Node.js, Tailwind CSS, GraphQL, React)
-- **Three JS Portfolio** ([Site](https://noumanejaz.site)) — Personal portfolio, modern UI/UX, D3.js, Tailwind CSS, Node.js, React
-- **Pinion** ([PyPI](https://pypi.org/project/pinion-queue/)) — Python job queue/worker, SQLite backend, metrics, retries
+- <b>CourtCierge</b> ([Site](https://courtcierge.online)) — Legal management platform, analytics, chat, billing (Node.js, Tailwind CSS, GraphQL, React)
+- <b>Three JS Portfolio</b> ([Site](https://noumanejaz.site)) — Personal portfolio, modern UI/UX, D3.js, Tailwind CSS, Node.js, React
+- <b>Pinion</b> ([PyPI](https://pypi.org/project/pinion-queue/)) — Python job queue/worker, SQLite backend, metrics, retries
 
 ---
 
 ## 🎓 Education
 
-**University of Management and Technology**  
-_Software Engineering_  
-Nov 2021 - Jul 2025
+<table>
+  <tr>
+    <td><b>University of Management and Technology</b></td>
+    <td>Software Engineering</td>
+    <td>Nov 2021 - Jul 2025</td>
+  </tr>
+</table>
 
 ---
 
 ## 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/noumanejaz)
-- [Portfolio](https://noumanejaz.site)
+<p>
+  <a href="https://www.linkedin.com/in/noumanejaz"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
+  <a href="https://noumanejaz.site"><img src="https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome" /></a>
+</p>
 
 ---
 
-> _"I believe in writing code that makes life easier for collaborators and other developers."_
+<blockquote>
+  <b>"I believe in writing code that makes life easier for collaborators and other developers."</b>
+</blockquote>
