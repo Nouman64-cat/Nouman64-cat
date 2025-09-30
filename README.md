@@ -1,10 +1,3 @@
-<div align="center">
-  
-  <h1>Nouman Ejaz — <span style="color:#007acc">Software Engineer</span></h1>
-</div>
-
-<div align="center">
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br><b>Python</b></td>
@@ -14,9 +7,6 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/><br><b>Node.js</b></td>
   </tr>
 </table>
-
-## 🚀 Frameworks
-
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/><br><b>React JS</b></td>
@@ -34,8 +24,6 @@
 
   </tr>
 </table>
-
-## 🧩 Additional Skills
 
 <table>
   <tr>
