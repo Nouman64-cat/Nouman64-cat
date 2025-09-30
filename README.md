@@ -17,43 +17,38 @@ Hi, I'm Nouman, a Software Engineer with 4+ years of experience. I specialize in
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Programming Languages
 
 <table>
   <tr>
-    <td><b>Python</b> <br> <img src="https://img.shields.io/badge/-3%20years-blue" /></td>
-    <td><b>JavaScript</b> <br> <img src="https://img.shields.io/badge/-3%20years-yellow" /></td>
-    <td><b>C++</b> <br> <img src="https://img.shields.io/badge/-3%20years-red" /></td>
-    <td><b>TypeScript</b> <br> <img src="https://img.shields.io/badge/-2%20years-blueviolet" /></td>
-    <td><b>Node.js</b> <br> <img src="https://img.shields.io/badge/-3%20years-green" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="32"/><br><b>Python</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="32"/><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/><br><b>C++</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="32"/><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="32"/><br><b>Node.js</b></td>
   </tr>
 </table>
 
-<details>
-  <summary><b>Additional Skills</b></summary>
-  <ul>
-    <li>HTML/CSS</li>
-    <li>Express.js</li>
-    <li>React Native</li>
-    <li>Sequelize</li>
-    <li>MySQL</li>
-    <li>SCSS</li>
-    <li>Information Technology</li>
-    <li>Figma</li>
-    <li>IoT</li>
-    <li>Web API</li>
-    <li>Server-Sent Events</li>
-    <li>E-Commerce</li>
-    <li>ERP</li>
-    <li>Next.js</li>
-    <li>Inventory</li>
-    <li>SSO</li>
-    <li>Firebase</li>
-    <li>Chatbot</li>
-    <li>GAP</li>
-    <li>Tailwind CSS</li>
-  </ul>
-</details>
+## Frameworks
+
+## 🧩 Additional Skills
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="32"/><br><b>HTML/CSS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="32"/><br><b>Express.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="32"/><br><b>React Native</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="32"/><br><b>Sequelize</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="32"/><br><b>MySQL</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="32"/><br><b>SCSS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="32"/><br><b>Figma</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="32"/><br><b>Next.js</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="32"/><br><b>Firebase</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="32"/><br><b>Tailwind CSS</b></td>
+  </tr>
+</table>
 
 ---
 
