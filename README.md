@@ -67,6 +67,10 @@ I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack fo
   <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
   <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
   <img src="https://img.shields.io/badge/A2A_Protocol-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Agent2Agent Protocol"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Semantic Kernel"/>
+  <img src="https://img.shields.io/badge/MCP-D97757?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Agents SDK"/>
 </p>
 
 Building multi-agent systems and orchestration pipelines — from single-chain LLM apps to autonomous agent networks that talk to each other.
@@ -81,6 +85,31 @@ Building multi-agent systems and orchestration pipelines — from single-chain L
 </p>
 
 Tracking experiments, versioning models, and integrating LLM APIs into production pipelines.
+
+### 💬 AI Assistants & Models
+
+<p>
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Qwen-615CED?style=for-the-badge&logo=qwen&logoColor=white" alt="Qwen"/>
+  <img src="https://img.shields.io/badge/Kimi-000000?style=for-the-badge&logo=kimi&logoColor=white" alt="Kimi"/>
+</p>
+
+Fluent across the major model families — Western and Chinese — and knowing which one to reach for depending on the task.
+
+### 🧑‍💻 AI-Assisted Coding Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=opencode&logoColor=white" alt="OpenCode"/>
+</p>
+
+Using agentic coding tools daily to move faster without cutting corners on architecture or code quality.
 
 ### 🧠 Vector Databases
 
