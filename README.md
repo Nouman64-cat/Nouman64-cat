@@ -34,6 +34,7 @@ I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack fo
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="32"/><br><b>Rust</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/><br><b>Golang</b></td>
+    <td align="center"><img src="https://img.icons8.com/color/48/sql.png" width="32"/><br><b>SQL</b></td>
   </tr>
 </table>
 
