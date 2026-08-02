@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack foundation. I design and ship autonomous AI agent systems, RAG pipelines, and ML-powered products, then architect and deploy the cloud infrastructure that runs them across AWS, GCP, and Azure. I care about clean architecture, SOLID principles, and code that's easy for a team to build on.
+I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack foundation. I design and ship autonomous AI agent systems, RAG pipelines, and ML-powered products, then architect and deploy the cloud infrastructure that runs them across AWS, GCP, and Azure. I have strong experience in system design and architecture, and I care about building scalable, well-structured systems that follow SOLID principles and are easy for a team to build on.
 
 <br/>
 
@@ -31,7 +31,101 @@ I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack fo
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="32"/><br><b>C++</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="32"/><br><b>R</b></td>
   </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="32"/><br><b>Rust</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="32"/><br><b>Golang</b></td>
+  </tr>
 </table>
+
+### 🧬 ML Frameworks & Libraries
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="32"/><br><b>PyTorch</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="32"/><br><b>TensorFlow</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="32"/><br><b>scikit-learn</b></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/huggingface" width="32"/><br><b>🤗 Transformers</b></td>
+  </tr>
+</table>
+
+### 📊 Data Science Toolkit
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="32"/><br><b>NumPy</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="32"/><br><b>Pandas</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="32"/><br><b>Jupyter</b></td>
+  </tr>
+</table>
+
+### 🤖 AI & Agentic Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
+  <img src="https://img.shields.io/badge/A2A_Protocol-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Agent2Agent Protocol"/>
+</p>
+
+Building multi-agent systems and orchestration pipelines — from single-chain LLM apps to autonomous agent networks that talk to each other.
+
+### 🔬 MLOps & Model APIs
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black" alt="Weights & Biases"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API"/>
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API"/>
+</p>
+
+Tracking experiments, versioning models, and integrating LLM APIs into production pipelines.
+
+### 🧠 Vector Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
+  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
+  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB"/>
+  <img src="https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
+</p>
+
+Powering semantic search and RAG pipelines with embeddings at scale.
+
+### 🕸️ Graph Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Amazon_Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Neptune"/>
+  <img src="https://img.shields.io/badge/Memgraph-FF5F32?style=for-the-badge&logo=memgraph&logoColor=white" alt="Memgraph"/>
+</p>
+
+Modeling and querying connected data — knowledge graphs, recommendation engines, and graph-augmented RAG.
+
+### ☁️ Cloud Platforms
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/><br><b>AWS</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32"/><br><b>Google Cloud</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/><br><b>Azure</b></td>
+  </tr>
+</table>
+
+Architecting and deploying cloud-native infrastructure — compute, storage, and managed services across all three major providers.
+
+### ⚙️ DevOps & Infrastructure
+
+<table>
+  <tr>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="32"/><br><b>Terraform</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="32"/><br><b>Docker</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" width="32"/><br><b>Kubernetes</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="32"/><br><b>GitHub Actions</b></td>
+  </tr>
+</table>
+
+Provisioning infrastructure as code and running containerized workloads from CI through production.
 
 ### Frontend
 
@@ -73,51 +167,6 @@ I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack fo
     <td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="32"/><br><b>Postman</b></td>
   </tr>
 </table>
-
-### 🤖 AI & Agentic Engineering
-
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge&logo=crewai&logoColor=white" alt="CrewAI"/>
-  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="AutoGen"/>
-  <img src="https://img.shields.io/badge/A2A_Protocol-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Agent2Agent Protocol"/>
-</p>
-
-Building multi-agent systems and orchestration pipelines — from single-chain LLM apps to autonomous agent networks that talk to each other.
-
-### 🧠 Vector Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone"/>
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant"/>
-  <img src="https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=azurecosmosdb&logoColor=white" alt="Azure Cosmos DB"/>
-  <img src="https://img.shields.io/badge/ChromaDB-6A4C93?style=for-the-badge&logo=chromadb&logoColor=white" alt="ChromaDB"/>
-</p>
-
-Powering semantic search and RAG pipelines with embeddings at scale.
-
-### 🕸️ Graph Databases
-
-<p>
-  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
-  <img src="https://img.shields.io/badge/Amazon_Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Neptune"/>
-  <img src="https://img.shields.io/badge/Memgraph-FF5F32?style=for-the-badge&logo=memgraph&logoColor=white" alt="Memgraph"/>
-</p>
-
-Modeling and querying connected data — knowledge graphs, recommendation engines, and graph-augmented RAG.
-
-### ☁️ Cloud Platforms
-
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="32"/><br><b>AWS</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="32"/><br><b>Google Cloud</b></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/><br><b>Azure</b></td>
-  </tr>
-</table>
-
-Architecting and deploying cloud-native infrastructure — compute, storage, and managed services across all three major providers.
 
 <br/>
 
