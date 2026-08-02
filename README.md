@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=200&section=header&text=Nouman%20Ejaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20%26%20Agentic%20AI&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=200&section=header&text=Nouman%20Ejaz&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Cloud%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+products;Shipping+multi-agent+AI+systems;Turning+ideas+into+production+code" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Designing+%26+deploying+AI%2FML+systems;Architecting+cloud-native+infrastructure;Shipping+multi-agent+AI+systems" alt="Typing SVG"/>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-I'm **Nouman**, a Software Engineer who builds high-performance, scalable products — from full-stack web apps to autonomous AI agent systems. I care about clean architecture, SOLID principles, and code that's easy for a team to build on. Lately I've been deep in the agentic AI space: multi-agent orchestration, RAG pipelines, and vector search at scale.
+I'm **Nouman**, an AI/ML Engineer and Cloud Engineer with a strong full-stack foundation. I design and ship autonomous AI agent systems, RAG pipelines, and ML-powered products, then architect and deploy the cloud infrastructure that runs them across AWS, GCP, and Azure. I care about clean architecture, SOLID principles, and code that's easy for a team to build on.
 
 <br/>
 
@@ -97,6 +97,16 @@ Building multi-agent systems and orchestration pipelines — from single-chain L
 
 Powering semantic search and RAG pipelines with embeddings at scale.
 
+### 🕸️ Graph Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Amazon_Neptune-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Neptune"/>
+  <img src="https://img.shields.io/badge/Memgraph-FF5F32?style=for-the-badge&logo=memgraph&logoColor=white" alt="Memgraph"/>
+</p>
+
+Modeling and querying connected data — knowledge graphs, recommendation engines, and graph-augmented RAG.
+
 ### ☁️ Cloud Platforms
 
 <table>
@@ -106,6 +116,8 @@ Powering semantic search and RAG pipelines with embeddings at scale.
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="32"/><br><b>Azure</b></td>
   </tr>
 </table>
+
+Architecting and deploying cloud-native infrastructure — compute, storage, and managed services across all three major providers.
 
 <br/>
 
